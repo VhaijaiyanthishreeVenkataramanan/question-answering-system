@@ -1,0 +1,2 @@
+model_checkpoint_path: "task1.weights"
+all_model_checkpoint_paths: "task1.weights"
